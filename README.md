@@ -1,6 +1,5 @@
 # Project2_week4
-
-# Syntecxhub_Projects_Task_4
+# Syntecxhub_Project_Task_4
 Syntecxhub Data Science Internship Projects
 
 ## IPL / Sports Data Analysis
